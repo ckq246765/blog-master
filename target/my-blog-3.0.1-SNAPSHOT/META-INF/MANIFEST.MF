@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: 陈克齐
+Build-Jdk: 11.0.5
+Implementation-Title: my-blog
+Implementation-Version: 3.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.my.blog.website
+Main-Class: ${start-class}
+
